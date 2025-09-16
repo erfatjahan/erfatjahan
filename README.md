@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erfat Jahan</h1>
+<h1 align="center"> I'm Erfat Jahan</h1>
 <h3 align="center">Final Year CSE Student | Passionate about AI, ML & Web Developme|Turning ideas into codent"</h3>
 
 - 🌱 I’m currently learning **React**
