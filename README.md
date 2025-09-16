@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erfat Jahan</h1>
 <h3 align="center">Final Year CSE Student | Passionate about AI, ML & Web Developme|Turning ideas into codent"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erfatjahan&label=Profile%20views&color=0e75b6&style=flat" alt="erfatjahan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erfatjahan" alt="erfatjahan" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **erfatjahan456@gmail.com**
