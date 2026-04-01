@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Erfat Jahan</h1>
-<h3 align="center"> CSE Graduate| Passionate about AI, ML & Web Developmet|
+<h3 align="center"> CSE Graduate| Passionate about AI, ML & Web Development|
   Turning ideas into code"</h3>
 
 - 🌱 I’m currently learning **React**
