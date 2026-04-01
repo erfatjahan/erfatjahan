@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Erfat Jahan</h1>
-<h3 align="center">Graduate CSE Student | Passionate about AI, ML & Web Developme|
-  Turning ideas into codent"</h3>
+<h3 align="center"> CSE Graduate| Passionate about AI, ML & Web Developmet|
+  Turning ideas into code"</h3>
 
 - 🌱 I’m currently learning **React**
 
