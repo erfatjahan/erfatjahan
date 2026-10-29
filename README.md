@@ -8,7 +8,7 @@
 ---
 ### 💻 About Me
 - 🌱 Currently exploring **Cloud Infrastructure,Docker & DevOps Practices**.
-- 🚀 Passionate about full-stack web development and AI-driven systems.
+- 🚀 Focused on full-stack web development and AI-driven systems.
 -  🤝 **Open Source Enthusiast**,always eager to learn and collaborate with the community.
 - 📫 How to reach me: **erfatjahan54@gmail.com**
 
