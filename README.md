@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,I'm Erfat Jahan</h1>
-<h3 align="center">CSE Graduate | Full-Stack Engineer Focused on AI & Web Tech</h3>
+<h3 align="center">CSE Graduate | Full-Stack Engineer| AI & Web Tech</h3>
 
 <p align="center">
   <i>"Turning complex ideas into scalable, production-ready code."</i>
